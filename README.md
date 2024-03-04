@@ -1,5 +1,7 @@
 # spinelytest
-### Disclaimer: This is done in Windows. Commit changes on how this is done in Mac or Linux.
+### Disclaimer:
+### This is done in Windows. Commit changes on how this is done in Mac or Linux.
+### ESP32 does not connect with 5G networks, only 2.4GHz
 
 ## Description
 Spinely (test) consists of  **2 different setups --hence 2 different folders**. 
