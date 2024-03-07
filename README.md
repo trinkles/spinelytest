@@ -10,7 +10,7 @@ Spinely (test) consists of  **2 different setups --hence 2 different folders**.
 
 ## ESP32 Testing Setup
 - Connect to the 2.4 GHz hotspot (SSID: `AA`)
-- Open your browser and go to this URL: `172.20.10.4 `
+- Open your browser and go to this URL: `172.20.10.4`
 - Make sure your XAMPP testing setup is working (refer to **XAMPP Testing Setup**)
 - To edit the Arduino sketch, refer to **ESP32 Development Setup**
 
