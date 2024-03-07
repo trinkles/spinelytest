@@ -1,3 +1,6 @@
+// Please update SSID, Password, and XAMPP Server
+// Refer to wifi_connection.h shared locally, contact any member
+
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <AsyncTCP.h>
