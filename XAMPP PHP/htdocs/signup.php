@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Prepare the SQL query to insert signup data into the database
-    $sql = "INSERT INTO users (name, username, email, password) VALUES ('$name', '$user_username', '$email', '*****')";
+    $sql = "INSERT INTO users (name, username, email, password) VALUES ('$name', '$user_username', '$email', '$2b$05$vImtVrbpq0sRJV1dBmNhgOvQvgktlFFCTIVilbH2uzZXwYxVdi7WC')";
 
     // Execute the SQL query
     if ($conn->query($sql) === TRUE) {
